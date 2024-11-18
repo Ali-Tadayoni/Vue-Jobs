@@ -83,34 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "1b73",
-      "title": "dasda",
-      "type": "Full-Time",
-      "description": "dasdad",
-      "salary": "$50K - $60K",
-      "location": "dasda",
-      "company": {
-        "name": "dasdas",
-        "description": "dsadasd",
-        "contacatEmail": "sdada@gmail.com",
-        "contactPhone": "dasasdas"
-      }
-    },
-    {
-      "id": "4dbd",
-      "title": "Pizzas",
-      "type": "Full-Time",
-      "description": "sdadad",
-      "salary": "$80K - $90K",
-      "location": "tehran",
-      "company": {
-        "name": "ddd",
-        "description": "babababba",
-        "contacatEmail": "dadas@dsda.com",
-        "contactPhone": "dsdsd"
-      }
     }
   ]
 }
